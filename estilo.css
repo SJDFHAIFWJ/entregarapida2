@@ -1,0 +1,39 @@
+#logo{
+    text-align: center;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(248, 207, 73);
+}
+
+#login2{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+#a1{
+    height: 300px;
+    width: 450px;
+}
+
+#a2{
+    height: 250px;
+    width: 250px;
+}
+
+#a3{
+    width: 175px;
+    heigth: 175px;
+    border-radius: 50%;
+
+}
+
+p{
+    border: red solid 2px;
+}
+#quem{
+    display: flex;
+}
+
